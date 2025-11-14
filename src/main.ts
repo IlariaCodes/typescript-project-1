@@ -14,6 +14,6 @@ if (
     (number5 > 0 || number5 <= 10)
 )
 {
-    alert("La tua media è di: " + media);
+    alert("La tua media è: " + media);
 }
 
